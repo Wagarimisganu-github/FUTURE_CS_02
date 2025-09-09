@@ -72,11 +72,6 @@ To simulate **real-world incident detection and response** by analyzing log data
 
 ---
 
-flowchart LR
-    A[Log Ingestion] --> B[Detection in Splunk]
-    B --> C[Incident Classification]
-    C --> D[Incident Response]
-    D --> E[Remediation & Monitoring]
 ----
 Special Thanks to Future Interns for this Attractive challenges
 -----
